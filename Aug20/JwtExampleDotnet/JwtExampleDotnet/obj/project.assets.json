@@ -4884,11 +4884,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\JwtExampleDotnet\\JwtExampleDotnet\\JwtExampleDotnet.csproj",
+      "projectUniqueName": "C:\\wiprojuly\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\JwtExampleDotnet.csproj",
       "projectName": "JwtExampleDotnet",
-      "projectPath": "C:\\Users\\pc\\source\\JwtExampleDotnet\\JwtExampleDotnet\\JwtExampleDotnet.csproj",
+      "projectPath": "C:\\wiprojuly\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\JwtExampleDotnet.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\JwtExampleDotnet\\JwtExampleDotnet\\obj\\",
+      "outputPath": "C:\\wiprojuly\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

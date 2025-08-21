@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oFnmJQWBS9I=",
+  "dgSpecHash": "Yk6++NxAVS4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\source\\JwtExampleDotnet\\JwtExampleDotnet\\JwtExampleDotnet.csproj",
+  "projectFilePath": "C:\\wiprojuly\\Aug20\\JwtExampleDotnet\\JwtExampleDotnet\\JwtExampleDotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
