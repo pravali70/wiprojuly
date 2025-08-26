@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\CarRental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|c:\\users\\pc\\source\\carrental\\carrental\\carrental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CE62726-0A5A-4AB2-981D-C05123F1BF37}|CarRental\\CarRental.csproj|solutionrelative:carrental\\carrental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CarRental\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\IAuthService.cs",
+              "RelativeToolTip": "CarRental\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:01:33.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "CarRental\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "CarRental\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:01:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CarRental\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "CarRental\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:02:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "CarRental\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\Users.cs",
+              "RelativeToolTip": "CarRental\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:02:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CarRental\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\Vehicle.cs",
+              "RelativeToolTip": "CarRental\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:02:55.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\appsettings.json",
+              "RelativeDocumentMoniker": "CarRental\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\appsettings.json",
+              "RelativeToolTip": "CarRental\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T04:06:55.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Program.cs",
+              "RelativeDocumentMoniker": "CarRental\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Program.cs",
+              "RelativeToolTip": "CarRental\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:07:40.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarRental\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarRental\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T03:57:54.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "CarRental\\Models\\CarDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\CarDbContext.cs",
+              "RelativeToolTip": "CarRental\\Models\\CarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:01:14.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "CarRental\\Models\\AuthService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Models\\AuthService.cs",
+              "RelativeToolTip": "CarRental\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:00:40.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "CarRental\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "CarRental\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T03:58:26.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarRental",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\CarRental\\CarRental\\CarRental.csproj",
+              "RelativeDocumentMoniker": "CarRental\\CarRental.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\CarRental\\CarRental\\CarRental.csproj",
+              "RelativeToolTip": "CarRental\\CarRental.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T03:59:52.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
