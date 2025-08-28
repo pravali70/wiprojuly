@@ -37,6 +37,7 @@ namespace ResumeApi.Controllers
                 FullName = dto.FullName,
                 Email = dto.Email,
                 UserName = dto.Email, // Identity requires username
+                UserType = "RegisteredUser"   // 👈 default role for normal signups
             };
 
             var result = await _userManager.CreateAsync(user, dto.Password);
@@ -44,11 +45,9 @@ namespace ResumeApi.Controllers
             if (!result.Succeeded)
                 return BadRequest(new { message = string.Join(", ", result.Errors.Select(e => e.Description)) });
 
-            // Assign default role
-            await _userManager.AddToRoleAsync(user, "RegisteredUser");
-
             return Ok(new { message = "Registered" });
         }
+
 
         [HttpPost("login")]
         public async Task<IActionResult> Login(LoginDto dto)
@@ -61,8 +60,10 @@ namespace ResumeApi.Controllers
             if (!check)
                 return Unauthorized(new { message = "Invalid credentials" });
 
-            var token = _jwt.CreateToken(user.Id, user.Email, user.FullName, "RegisteredUser");
-            return Ok(new { token, fullName = user.FullName, role = "RegisteredUser" });
+            var token = _jwt.CreateToken(user);
+
+            return Ok(new { token, fullName = user.FullName, role = user.UserType });
         }
+
     }
 }

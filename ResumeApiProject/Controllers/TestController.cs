@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ResumeApi.Models; // <-- add this so ApplicationUser is recognized
 using ResumeApi.Services;
 
 namespace ResumeApi.Controllers
@@ -14,17 +15,20 @@ namespace ResumeApi.Controllers
             _jwtService = jwtService;
         }
 
-        [HttpGet("admin-token")]
-        public IActionResult GetAdminToken()
+        [HttpGet("test-token")]
+        public IActionResult GetTestToken()
         {
-            // Admin user Id is a string (GUID or nvarchar(450) in AspNetUsers)
-            string userId = "admin-id-placeholder"; // Replace with actual Id from DB if needed
-            string email = "admin@test.com";
-            string fullName = "Admin User";
-            string role = "Admin";
+            // Dummy test user token (for Swagger testing only)
+            var dummyUser = new ApplicationUser
+            {
+                Id = "test-user-id",     // must match AspNetUsers PK format (string GUID)
+                Email = "testuser@test.com",
+                FullName = "Test User",
+                UserType = "Admin"       // or "RegisteredUser"
+            };
 
-            var token = _jwtService.CreateToken(userId, email, fullName, role);
-            return Ok(token);
+            var token = _jwtService.CreateToken(dummyUser);
+            return Ok(new { token });
         }
     }
 }

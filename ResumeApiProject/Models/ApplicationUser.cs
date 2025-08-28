@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using System.Collections.Generic;
 
 namespace ResumeApi.Models
 {
@@ -6,7 +7,10 @@ namespace ResumeApi.Models
     {
         public string FullName { get; set; } = string.Empty;
 
-        //  Navigation property to Resumes
+        // 👇 Add UserType for role management
+        public string UserType { get; set; } = "RegisteredUser";
+
+        // Navigation property to Resumes
         public virtual ICollection<Resume> Resumes { get; set; } = new List<Resume>();
     }
 }
